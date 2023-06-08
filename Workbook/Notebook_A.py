@@ -9,7 +9,3 @@ print("Hello",name)
 # COMMAND ----------
 
 print(f"Welcome back {full_name}")
-
-# COMMAND ----------
-
-
