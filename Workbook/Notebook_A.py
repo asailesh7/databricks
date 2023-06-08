@@ -1,5 +1,15 @@
 # Databricks notebook source
 name = "John"
 print("Hello",name)
-%run ./Notebook_B
+
+# COMMAND ----------
+
+# MAGIC %run ./Notebook_B
+
+# COMMAND ----------
+
 print(f"Welcome back {full_name}")
+
+# COMMAND ----------
+
+
